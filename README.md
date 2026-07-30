@@ -3,6 +3,14 @@ Building simple, small tools.
 
 ## ファイル転送 / File Transfer
 
+### ![](images/icons/droppallive.png) DropPal Live (Web App)
+**[Open DropPal Live](https://droppallive.nacookan.workers.dev)**  
+QRコードを読み取るだけで2人をつなぎ、リアルタイムにチャットとファイル送受信ができるWebアプリ。サーバーには何も保存しない。  
+A web app that connects two people with a QR code scan for real-time chat and file transfer, with nothing stored on the server.  
+[github.com/nacookan/droppallive](https://github.com/nacookan/droppallive)
+
+&nbsp;
+
 ### ![](images/icons/droppal.png) DropPal (Web App)
 **[Open DropPal](https://nacookan.github.io/droppal/)**  
 サーバーを介さずブラウザ同士で完結するP2Pファイル転送とチャットのWebアプリ。  
