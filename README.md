@@ -117,3 +117,13 @@ A macOS app for quickly previewing the video and microphone input from a connect
 ビデオ通話中の照明として使える明るいウィンドウを表示するmacOSアプリ。  
 A macOS app that shows a bright window you can use as lighting during video calls.  
 [github.com/nacookan/softbox](https://github.com/nacookan/softbox)
+
+&nbsp;
+
+## 旅行 / Travel
+
+### ![](images/icons/p4.png) P⁴ (Web App)
+**[Open P⁴](https://nacookan.github.io/p4/)**  
+PP獲得を目的とした旅程を組み立てるためのWebアプリ。出発空港から乗り継ぐ便を選び進めると獲得PPを自動計算する。  
+A web tool for planning flight itineraries optimized for PP mileage runs. Pick your connecting flights from a departure airport and it calculates the points you earn.  
+[github.com/nacookan/p4](https://github.com/nacookan/p4)
